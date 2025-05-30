@@ -1,6 +1,6 @@
 # Exercicios02praTI+
-Lista de Exercícios 1 - Estudando as estruturas básicas
-Exercícios que contemplam grande parte do conteúdo abordado no módulo 01.
+Lista de Exercícios 2 - Estudando as estruturas básicas
+Exercícios que contemplam grande parte do final do conteúdo abordado no módulo 01.
 
 FORMA DE ENTREGA:
 
